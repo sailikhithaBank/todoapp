@@ -1,0 +1,33 @@
+.form{
+    display: inline-block;
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: blue;
+    color: rgb(15, 224, 43);
+}
+
+.out{
+    display: inline-block;
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: aqua;
+    color: chartreuse;
+}
+
+ul li{
+    display: inline;
+     padding-right: 50px;
+     font-size: 20px;
+     font-weight: 600px;
+  }
+  ul{
+    background-color: aquamarine;
+    padding: 40px;
+  }
